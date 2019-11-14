@@ -14,6 +14,7 @@ This plugin provides the PayEx Payment Gateway for WooCommerce.
 
 PayEx Payments Gateway for WooCommerce through Ecom. Payment gateway allows to accept payments through:
 
+* Checkout
 * Credit and debit cards (Visa, Mastercard, Visa Electron, Maestro etc).
 * Invoice
 * Swish
